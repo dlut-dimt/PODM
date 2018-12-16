@@ -1,6 +1,6 @@
 # PODM
 
-##NeurIPS 2018£ºA Bridging Framework for Model Optimization and Deep Propagation
+NeurIPS 2018: A Bridging Framework for Model Optimization and Deep Propagation
 
 @inproceedings{liu2018bridging,
   title={A Bridging Framework for Model Optimization and Deep Propagation},
